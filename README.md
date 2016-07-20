@@ -10,6 +10,7 @@ And ready! By default, it will use *port 8000*.
 ### Interface
 - Flexbox layout
 - Bootstrap and custom CSS
+
 ### Currently supported functions
 - Join chat server only after a username is sent.
 - Add a username
