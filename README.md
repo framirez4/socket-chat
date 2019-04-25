@@ -4,7 +4,7 @@ Simple chat app using [Socket.io] over an [Express.js] app.
 Clone the project and write:
 ```sh
 $ npm install
-$ node index.js
+$ npm start
 ```
 And ready! By default, it will use *port 8000*.
 ### Interface
