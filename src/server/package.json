@@ -4,12 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "next:dev": "next dev",
+    "next:build": "next build",
+    "next:start": "next start"
   },
   "author": "Francesc Ramírez",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^3.1.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
   }
 }
